@@ -2,7 +2,7 @@
 <br>
 
 1. Performed Data Cleaning / Data Preparation / Data Pre-processing
-2. Data visuaslisation(EDA)
+2. Data Visualization (Exploratory Data Analysis)
 3. Performed feature engineering
     - Feature encoding
     - Checking outliers and impute it
